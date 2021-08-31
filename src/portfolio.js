@@ -311,7 +311,7 @@ const resumeright = {
           subtitle:
             "National University of Life and Environmental Sciences, Ukraine",
           date: "2017 - 2021",
-          // content: ["CGPA: 8.06/10"],
+          content: [],
         },
       ],
     },
@@ -343,13 +343,13 @@ const resumeright = {
           subtitle: "kidsworldeducationconsultants.com",
           content: ["Created main page for website"],
         },
-        // {
-        //   title: "Portfolio Website",
-        //   subtitle: "pranavphulware.netlify.app",
-        //   content: [
-        //     "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
-        //   ],
-        // },
+        {
+          title: "Portfolio Website",
+          subtitle: "pranavphulware.netlify.app",
+          content: [
+            "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
+          ],
+        },
       ],
     },
   ],
