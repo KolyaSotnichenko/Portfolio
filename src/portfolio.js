@@ -168,6 +168,13 @@ const skills = {
             color: "#2d8ebb",
           },
         },
+        {
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
+          style: {
+            color: "#9374b7",
+          },
+        },
       ],
     },
     {
