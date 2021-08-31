@@ -335,23 +335,23 @@ const resumeright = {
     //     },
     //   ],
     // },
-    {
-      title: ["Freelance Work"],
-      data: [
-        {
-          title: "Web Design",
-          subtitle: "kidsworldeducationconsultants.com",
-          content: ["Created main page for website"],
-        },
-        {
-          title: "Portfolio Website",
-          subtitle: "pranavphulware.netlify.app",
-          content: [
-            "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
-          ],
-        },
-      ],
-    },
+    // {
+    //   title: ["Freelance Work"],
+    //   data: [
+    //     {
+    //       title: "Web Design",
+    //       subtitle: "kidsworldeducationconsultants.com",
+    //       content: ["Created main page for website"],
+    //     },
+    //     {
+    //       title: "Portfolio Website",
+    //       subtitle: "pranavphulware.netlify.app",
+    //       content: [
+    //         "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
+    //       ],
+    //     },
+    //   ],
+    // },
   ],
 };
 
