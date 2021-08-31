@@ -93,8 +93,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive websites using HTML5, CSS3, BootStrap5, ReactJS",
-        "⚡ Creating application backend in Node, Flask & Streamlit",
-        "⚡ Having experience in Domain & Hosting using Netlify,Heroku",
+        "⚡ Having experience in Domain & Hosting using Heroku",
       ],
       softwareSkills: [
         {
@@ -182,7 +181,6 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interfaces for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
         "⚡ Creating the flow of application functionalities to optimize user experience",
         "⚡ Applying latest Design principles and experienced in product wireframing",
       ],
@@ -310,15 +308,10 @@ const resumeright = {
       data: [
         {
           title: "Bachelor of Engineering in Information Technology",
-          subtitle: "Vidyalankar Institute of Technology, Mumbai",
+          subtitle:
+            "National University of Life and Environmental Sciences, Ukraine",
           date: "2017 - 2021",
-          content: ["CGPA: 8.06/10"],
-        },
-        {
-          title: "Higher Secondary Certificate [HSC]",
-          subtitle: "Dr. Antonio Da Silva Technical Jr. College, Mumbai",
-          date: "2014 - 2016",
-          content: ["Precentage: 80%"],
+          // content: ["CGPA: 8.06/10"],
         },
       ],
     },
@@ -346,19 +339,17 @@ const resumeright = {
       title: ["Freelance Work"],
       data: [
         {
-          title: "Consultancy Website",
+          title: "Web Design",
           subtitle: "kidsworldeducationconsultants.com",
-          content: [
-            "Created and hosted a website for consultancy providers in Kids Education Domain",
-          ],
+          content: ["Created main page for website"],
         },
-        {
-          title: "Portfolio Website",
-          subtitle: "pranavphulware.netlify.app",
-          content: [
-            "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
-          ],
-        },
+        // {
+        //   title: "Portfolio Website",
+        //   subtitle: "pranavphulware.netlify.app",
+        //   content: [
+        //     "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
+        //   ],
+        // },
       ],
     },
   ],
@@ -385,14 +376,14 @@ const certifications = {
       alt_name: "Prometheus",
       color_code: "#000000",
     },
-    // {
-    //   title: "Problem solving",
-    //   subtitle: "HackerRank",
-    //   logo_path: "problem-01.png",
-    //   certificate_link: "https://www.hackerrank.com/rohankokkula",
-    //   alt_name: "HackerRank",
-    //   color_code: "#000000",
-    // },
+    {
+      title: "HTML & CSS",
+      subtitle: "Stepik",
+      logo_path: "stepik.png",
+      certificate_link: "https://stepik.org/cert/281812",
+      alt_name: "HackerRank",
+      color_code: "#000000",
+    },
     // {
     //   title: "Python",
     //   subtitle: "HackerRank",
