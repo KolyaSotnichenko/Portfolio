@@ -72,6 +72,10 @@
   .greeting-text-span {
     font-size: 20px;
   }
+
+  .greeting-sub {
+    font-size: 40px;
+  }
 }
 @media (max-width: 768px) {
   .button-greeting-div {
@@ -100,6 +104,7 @@
 
   .greeting-main {
     display: block;
+    padding-left: 20px;
   }
 
   .portfolio-repo-btn-div {
@@ -142,12 +147,16 @@
   }
   .greeting-main {
     display: block;
+    padding-left: 20px;
   }
 
   .button-greeting-div {
     display: flex;
     margin-top: -10px;
     text-align: center;
+  }
+  .greeting-image-div {
+    display: none;
   }
 }
 

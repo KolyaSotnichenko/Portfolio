@@ -19,7 +19,7 @@ const greeting = {
   sub: "Kolya Sotnichenko",
   logo_name: "Kolya Sotnichenko",
   resumeLink:
-    "https://drive.google.com/file/d/1PUm5EDI46pdZfCuK2wKe10mnlrQQc8-e/view?usp=sharing",
+    "https://drive.google.com/file/d/1ueZSLJWna52LjMeZgj46aLvh3inya4hV/view?usp=sharing",
 };
 
 // home logos

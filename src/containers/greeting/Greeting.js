@@ -29,7 +29,7 @@ export default function Greeting(props) {
                       // .typeString("Data Scientist(NLP)")
                       // .pauseFor(200)
                       // .deleteAll()
-                      .typeString("Web Developer")
+                      .typeString("Front-End Developer")
                       .pauseFor(200)
                       .deleteAll()
                       .typeString("UI/UX Designer")

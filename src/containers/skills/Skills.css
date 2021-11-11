@@ -76,8 +76,8 @@
     text-align: center;
   }
   .skills-image-div {
-    /* display: none; */
-    order: 2;
+    display: none;
+    /* order: 2; */
   }
   .skills-image-div > * {
     margin-top: 0px;
