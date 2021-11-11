@@ -5,8 +5,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Kolya Sotnichenko | Portfolio",
-  description:
-    "A Data Science practitioner who thrives to leverage startups with AI based solutions with a blend of UI/UX",
+  description: "Web Development and Mobile Specialist (React / React Native)",
   og: {
     title: "Kolya Portfolio",
     type: "website",
@@ -222,7 +221,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools.",
 };
 
 //project cards
@@ -285,7 +284,7 @@ const resumeleft = {
       {
         title: "Junior Front-End Developer",
         subtitle: "N-Six",
-        date: "Mart 2021 - present",
+        date: "Mart 2021 - November 2021",
         content: [
           // "Used T5 Transformer Model to build a Question Answering Model which generates questions based on Keywords extracted (WordNet, Sense2Vec) from studyshot notes.",
           // "Built an MCQ Generation model using BERT",
@@ -473,7 +472,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "contact.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
   addressSection: {
     title: "Address",
