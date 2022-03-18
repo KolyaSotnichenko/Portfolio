@@ -2,7 +2,7 @@
   "private": true,
   "name": "datasciencefolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/KolyaSotnichenko/Portfolio",
+  "homepage": "https://kolyasotnichenko.github.io/portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "yarn run build",

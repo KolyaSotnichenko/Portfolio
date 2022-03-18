@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/KolyaSotnichenko/Portfolio/precache-manifest.273469c754d0976281ecbea2d767be6a.js"
+  "/portfolio/precache-manifest.bd5c48ecbd39a3795a19bb3d4a051782.js"
 );
 
 self.addEventListener("message", (event) => {
@@ -36,9 +36,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(
-  workbox.precaching.getCacheKeyForURL(
-    "/KolyaSotnichenko/Portfolio/index.html"
-  ),
+  workbox.precaching.getCacheKeyForURL("/portfolio/index.html"),
   {
     blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
   }

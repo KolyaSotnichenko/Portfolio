@@ -74,7 +74,7 @@
     (i.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (i.p = "/KolyaSotnichenko/Portfolio/");
+    (i.p = "/portfolio/");
   var l = (this.webpackJsonpdatasciencefolio =
       this.webpackJsonpdatasciencefolio || []),
     a = l.push.bind(l);
@@ -83,4 +83,4 @@
   var c = a;
   r();
 })([]);
-//# sourceMappingURL=runtime-main.ab266d79.js.map
+//# sourceMappingURL=runtime-main.26dee75f.js.map

@@ -3,56 +3,49 @@
   font-style: normal;
   font-weight: 400;
   src: local("Agustina Regular"),
-    url(/KolyaSotnichenko/Portfolio/static/media/Agustina.21f233e1.woff)
-      format("woff");
+    url(/portfolio/static/media/Agustina.21f233e1.woff) format("woff");
 }
 @font-face {
   font-family: Montserrat;
   src: local("Montserrat"),
-    url(/KolyaSotnichenko/Portfolio/static/media/Montserrat-Regular.ee653992.ttf)
-      format("woff");
+    url(/portfolio/static/media/Montserrat-Regular.ee653992.ttf) format("woff");
 }
 @font-face {
   font-family: Google Sans Bold;
   src: local("Google Sans Bold"),
-    url(/KolyaSotnichenko/Portfolio/static/media/GoogleSans-Bold.4457817a.ttf)
-      format("woff");
+    url(/portfolio/static/media/GoogleSans-Bold.4457817a.ttf) format("woff");
 }
 @font-face {
   font-family: Google Sans Bold Italic;
   src: local("Google Sans Bold Italic"),
-    url(/KolyaSotnichenko/Portfolio/static/media/GoogleSans-BoldItalic.90773b61.ttf)
+    url(/portfolio/static/media/GoogleSans-BoldItalic.90773b61.ttf)
       format("woff");
 }
 @font-face {
   font-family: Google Sans Italic;
   src: local("Google Sans Italic"),
-    url(/KolyaSotnichenko/Portfolio/static/media/GoogleSans-Italic.0ecddcde.ttf)
-      format("woff");
+    url(/portfolio/static/media/GoogleSans-Italic.0ecddcde.ttf) format("woff");
 }
 @font-face {
   font-family: Google Sans Medium;
   src: local("Google Sans Medium"),
-    url(/KolyaSotnichenko/Portfolio/static/media/GoogleSans-Medium.8d57e401.ttf)
-      format("woff");
+    url(/portfolio/static/media/GoogleSans-Medium.8d57e401.ttf) format("woff");
 }
 @font-face {
   font-family: Google Sans Medium Italic;
   src: local("Google Sans Medium Italic"),
-    url(/KolyaSotnichenko/Portfolio/static/media/GoogleSans-MediumItalic.8fd37379.ttf)
+    url(/portfolio/static/media/GoogleSans-MediumItalic.8fd37379.ttf)
       format("woff");
 }
 @font-face {
   font-family: Google Sans Regular;
   src: local("Google Sans Regular"),
-    url(/KolyaSotnichenko/Portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf)
-      format("woff");
+    url(/portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf) format("woff");
 }
 @font-face {
   font-family: Code;
   src: local("Code"),
-    url(/KolyaSotnichenko/Portfolio/static/media/Code.b8349593.ttf)
-      format("woff");
+    url(/portfolio/static/media/Code.b8349593.ttf) format("woff");
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace;
@@ -5932,16 +5925,13 @@ a.badge-dark:focus {
   font-style: normal;
   font-weight: 400;
   font-display: auto;
-  src: url(/KolyaSotnichenko/Portfolio/static/media/fa-brands-400.5063b105.eot);
-  src: url(/KolyaSotnichenko/Portfolio/static/media/fa-brands-400.5063b105.eot?#iefix)
+  src: url(/portfolio/static/media/fa-brands-400.5063b105.eot);
+  src: url(/portfolio/static/media/fa-brands-400.5063b105.eot?#iefix)
       format("embedded-opentype"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-brands-400.cccc9d29.woff2)
-      format("woff2"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-brands-400.c5e0f14f.woff)
-      format("woff"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-brands-400.06147b6c.ttf)
-      format("truetype"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-brands-400.9d204f50.svg#fontawesome)
+    url(/portfolio/static/media/fa-brands-400.cccc9d29.woff2) format("woff2"),
+    url(/portfolio/static/media/fa-brands-400.c5e0f14f.woff) format("woff"),
+    url(/portfolio/static/media/fa-brands-400.06147b6c.ttf) format("truetype"),
+    url(/portfolio/static/media/fa-brands-400.9d204f50.svg#fontawesome)
       format("svg");
 }
 .fab {
@@ -5952,16 +5942,13 @@ a.badge-dark:focus {
   font-style: normal;
   font-weight: 400;
   font-display: auto;
-  src: url(/KolyaSotnichenko/Portfolio/static/media/fa-regular-400.c1a866ec.eot);
-  src: url(/KolyaSotnichenko/Portfolio/static/media/fa-regular-400.c1a866ec.eot?#iefix)
+  src: url(/portfolio/static/media/fa-regular-400.c1a866ec.eot);
+  src: url(/portfolio/static/media/fa-regular-400.c1a866ec.eot?#iefix)
       format("embedded-opentype"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-regular-400.f5f2566b.woff2)
-      format("woff2"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-regular-400.c4f508e7.woff)
-      format("woff"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-regular-400.65b286af.ttf)
-      format("truetype"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-regular-400.9443c1e7.svg#fontawesome)
+    url(/portfolio/static/media/fa-regular-400.f5f2566b.woff2) format("woff2"),
+    url(/portfolio/static/media/fa-regular-400.c4f508e7.woff) format("woff"),
+    url(/portfolio/static/media/fa-regular-400.65b286af.ttf) format("truetype"),
+    url(/portfolio/static/media/fa-regular-400.9443c1e7.svg#fontawesome)
       format("svg");
 }
 .far {
@@ -5972,16 +5959,13 @@ a.badge-dark:focus {
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url(/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.8e4a6dcc.eot);
-  src: url(/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.8e4a6dcc.eot?#iefix)
+  src: url(/portfolio/static/media/fa-solid-900.8e4a6dcc.eot);
+  src: url(/portfolio/static/media/fa-solid-900.8e4a6dcc.eot?#iefix)
       format("embedded-opentype"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.44d537ab.woff2)
-      format("woff2"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.333bae20.woff)
-      format("woff"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.0bff33a5.ttf)
-      format("truetype"),
-    url(/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.3d102342.svg#fontawesome)
+    url(/portfolio/static/media/fa-solid-900.44d537ab.woff2) format("woff2"),
+    url(/portfolio/static/media/fa-solid-900.333bae20.woff) format("woff"),
+    url(/portfolio/static/media/fa-solid-900.0bff33a5.ttf) format("truetype"),
+    url(/portfolio/static/media/fa-solid-900.3d102342.svg#fontawesome)
       format("svg");
 }
 .fa,
@@ -5993,4 +5977,4 @@ a.badge-dark:focus {
 .fas {
   font-weight: 900;
 }
-/*# sourceMappingURL=main.a65cb71c.chunk.css.map */
+/*# sourceMappingURL=main.af87c2cb.chunk.css.map */
