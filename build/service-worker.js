@@ -15,7 +15,9 @@ importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js"
 );
 
-importScripts("./precache-manifest.08ecf3bca09ebe994fef153de651df20.js");
+importScripts(
+  "/KolyaSotnichenko/Portfolio/precache-manifest.273469c754d0976281ecbea2d767be6a.js"
+);
 
 self.addEventListener("message", (event) => {
   if (event.data && event.data.type === "SKIP_WAITING") {
@@ -34,7 +36,9 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(
-  workbox.precaching.getCacheKeyForURL("./index.html"),
+  workbox.precaching.getCacheKeyForURL(
+    "/KolyaSotnichenko/Portfolio/index.html"
+  ),
   {
     blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
   }
