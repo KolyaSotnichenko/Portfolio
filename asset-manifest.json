@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/KolyaSotnichenko/Portfolio/static/css/main.a65cb71c.chunk.css",
+    "main.js": "/KolyaSotnichenko/Portfolio/static/js/main.8a7752f4.chunk.js",
+    "main.js.map": "/KolyaSotnichenko/Portfolio/static/js/main.8a7752f4.chunk.js.map",
+    "runtime-main.js": "/KolyaSotnichenko/Portfolio/static/js/runtime-main.ab266d79.js",
+    "runtime-main.js.map": "/KolyaSotnichenko/Portfolio/static/js/runtime-main.ab266d79.js.map",
+    "static/js/2.0cef7a75.chunk.js": "/KolyaSotnichenko/Portfolio/static/js/2.0cef7a75.chunk.js",
+    "static/js/2.0cef7a75.chunk.js.map": "/KolyaSotnichenko/Portfolio/static/js/2.0cef7a75.chunk.js.map",
+    "index.html": "/KolyaSotnichenko/Portfolio/index.html",
+    "precache-manifest.273469c754d0976281ecbea2d767be6a.js": "/KolyaSotnichenko/Portfolio/precache-manifest.273469c754d0976281ecbea2d767be6a.js",
+    "service-worker.js": "/KolyaSotnichenko/Portfolio/service-worker.js",
+    "static/css/main.a65cb71c.chunk.css.map": "/KolyaSotnichenko/Portfolio/static/css/main.a65cb71c.chunk.css.map",
+    "static/media/index.css": "/KolyaSotnichenko/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Relu-Activation-Function.gif": "/KolyaSotnichenko/Portfolio/static/media/Relu-Activation-Function.c0c6a349.gif",
+    "static/media/acti.gif": "/KolyaSotnichenko/Portfolio/static/media/acti.5eae8648.gif",
+    "static/media/activation-functions.gif": "/KolyaSotnichenko/Portfolio/static/media/activation-functions.5c232fa1.gif",
+    "static/media/coursera-01.png": "/KolyaSotnichenko/Portfolio/static/media/coursera-01.1a58a3f3.png",
+    "static/media/all.css": "/KolyaSotnichenko/Portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/logo2.png": "/KolyaSotnichenko/Portfolio/static/media/logo2.e98ff673.png",
+    "static/media/neural.gif": "/KolyaSotnichenko/Portfolio/static/media/neural.5aa6bdcc.gif",
+    "static/media/news.gif": "/KolyaSotnichenko/Portfolio/static/media/news.4f42a4cb.gif",
+    "static/media/project-02.jpg": "/KolyaSotnichenko/Portfolio/static/media/project-02.858dbff1.jpg",
+    "static/media/prometheus.png": "/KolyaSotnichenko/Portfolio/static/media/prometheus.1765a870.png",
+    "static/media/voice.gif": "/KolyaSotnichenko/Portfolio/static/media/voice.97948ca7.gif",
+    "static/media/web.svg": "/KolyaSotnichenko/Portfolio/static/media/web.9331f972.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab266d79.js",
+    "static/js/2.0cef7a75.chunk.js",
+    "static/css/main.a65cb71c.chunk.css",
+    "static/js/main.8a7752f4.chunk.js"
+  ]
+}
